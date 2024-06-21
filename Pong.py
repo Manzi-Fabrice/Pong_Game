@@ -1,5 +1,3 @@
-# Author: Fabrice Manzi Niyigaba
-# Date: Fab 03 2024
 # Purpose: Python code for creating pong game
 
 

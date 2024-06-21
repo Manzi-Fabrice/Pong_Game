@@ -3,9 +3,6 @@
 
 from cs1lib import *
 
-# CONSTANTS
-
-
 # Keys for the movement of paddle
 MOVE_UP_LEFT_PADDLE = 'a'
 MOVE_DOWN_LEFT_PADDLE = 'z'
